@@ -36,14 +36,14 @@ Explore our sections below or jump straight to your favorite category using our 
 
 Get in touch with us or place your order instantly through any of our official channels:
 
-* **🌐 Order Online (Official Website):** <a href="https://chatore-sathi.streamlit.app">chatore-sathi.streamlit.app</a>
-* **📞 Direct Call:** <a href="tel:+919412345126">Click to Call +91 94123 45126</a>
-* **💬 WhatsApp Chat:** <a href="https://wa.me/919412345126">Click to Chat on WhatsApp</a>
-* **📱 SMS / Text:** <a href="sms:+919412345126">Click to Send Normal SMS</a>
-* **📸 Instagram:** <a href="https://www.instagram.com/chatore_sathi.cafe/">Follow @chatore_sathi.cafe</a>
-* **🔵 Facebook:** <a href="https://www.facebook.com/shashank.satija">Visit Facebook Page</a>
-* **💼 LinkedIn:** <a href="https://www.linkedin.com/in/chatore-sathi-833219412/">Connect on LinkedIn</a>
-* **📧 Email (Gmail):** <a href="mailto:chatoresathi.cafe@gmail.com">chatoresathi.cafe@gmail.com</a>
+* **🌐 Order Online (Official Website):** [chatore-sathi.streamlit.app](https://chatore-sathi.streamlit.app)
+* **📞 Direct Call:** [![Call Us](https://img.shields.io/badge/Call-+91%2094123%2045126-blue?style=flat-square)](tel:+919412345126)
+* **💬 WhatsApp Chat:** [Click to Chat on WhatsApp](https://wa.me/919412345126)
+* **📱 SMS / Text:** [![Send SMS](https://img.shields.io/badge/SMS-Send%20Message-blue?style=flat-square)](sms:+919412345126)
+* **📸 Instagram:** [Follow @chatore_sathi.cafe](https://www.instagram.com/chatore_sathi.cafe/)
+* **🔵 Facebook:** [Visit Facebook Page](https://www.facebook.com/shashank.satija)
+* **💼 LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/chatore-sathi-833219412/)
+* **📧 Email (Gmail):** [chatoresathi.cafe@gmail.com](mailto:chatoresathi.cafe@gmail.com)
 ---
 
 ## 📍 Cafe Location & Address
