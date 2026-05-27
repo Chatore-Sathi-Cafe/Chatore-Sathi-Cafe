@@ -37,9 +37,9 @@ Explore our sections below or jump straight to your favorite category using our 
 Get in touch with us or place your order instantly through any of our official channels:
 
 * **🌐 Order Online (Official Website):** [chatore-sathi.streamlit.app](https://chatore-sathi.streamlit.app)
-* **📞 Direct Call:** [![Call Us](https://img.shields.io/badge/Call-+91%2094123%2045126-blue?style=flat-square)](tel:+919412345126)
+* **📞 Direct Call:** [Call us on 9412345126](tel:+919412345126)
 * **💬 WhatsApp Chat:** [Click to Chat on WhatsApp](https://wa.me/919412345126)
-* **📱 SMS / Text:** [![Send SMS](https://img.shields.io/badge/SMS-Send%20Message-blue?style=flat-square)](sms:+919412345126)
+* **📱 SMS / Text:** [![Send SMS on 9412345126](sms:+919412345126)
 * **📸 Instagram:** [Follow @chatore_sathi.cafe](https://www.instagram.com/chatore_sathi.cafe/)
 * **🔵 Facebook:** [Visit Facebook Page](https://www.facebook.com/shashank.satija)
 * **💼 LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/chatore-sathi-833219412/)
