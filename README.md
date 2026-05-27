@@ -158,7 +158,7 @@ We are completely devoted to delivering a high-quality, unforgettable food exper
 ---
 
 ### 🕒 Our Operational Timings
-* **Open All Days (Monday to Sunday):** 10:00 AM to 10:00 PM
+* **Open All Days (Monday to Sunday):** 12:00 AM to 10:00 PM
 
 ---
 _Thank you for visiting Chatore Sathi Cafe. We look forward to treating you to our rich flavors! Head up to our website link or call us directly to place your order now!_
