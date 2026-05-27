@@ -1,5 +1,6 @@
-# <img src="https://i.ibb.co/0RhGn22d/MAIN-LOGO.png" width="150" alt="Chatore Sathi Logo">
-
+<p align="center">
+  #<img src="https://i.ibb.co/0RhGn22d/MAIN-LOGO.png" width="150" alt="Chatore Sathi Logo">
+</p>
 # Welcome to Chatore Sathi Cafe - Your Ultimate Food Destination!
 
 Welcome to the digital hub of **Chatore Sathi Cafe**, where taste meets tradition and every bite tells a story. Whether you're a fan of cheesy Italian delights, spicy Chinese fusion, or the earthy charm of traditional Kulhad items, we have something specially crafted for you.
