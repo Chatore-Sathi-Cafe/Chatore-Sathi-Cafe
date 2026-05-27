@@ -1,5 +1,5 @@
 <p align="center">
-  #<img src="https://i.ibb.co/0RhGn22d/MAIN-LOGO.png" width="150" alt="Chatore Sathi Logo">
+  </h1><img src="https://i.ibb.co/0RhGn22d/MAIN-LOGO.png" width="150" alt="Chatore Sathi Logo"></h1>
 </p>
 # Welcome to Chatore Sathi Cafe - Your Ultimate Food Destination!
 
