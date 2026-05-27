@@ -39,7 +39,7 @@ Get in touch with us or place your order instantly through any of our official c
 * **🌐 Order Online (Official Website):** [chatore-sathi.streamlit.app](https://chatore-sathi.streamlit.app)
 * **📞 Direct Call:** [Call us on 9412345126](tel:+919412345126)
 * **💬 WhatsApp Chat:** [Click to Chat on WhatsApp](https://wa.me/919412345126)
-* **📱 SMS / Text:** [![Send SMS on 9412345126](sms:+919412345126)
+* **📱 SMS / Text:** [Send SMS on 9412345126](sms:+919412345126)
 * **📸 Instagram:** [Follow @chatore_sathi.cafe](https://www.instagram.com/chatore_sathi.cafe/)
 * **🔵 Facebook:** [Visit Facebook Page](https://www.facebook.com/shashank.satija)
 * **💼 LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/chatore-sathi-833219412/)
