@@ -28,7 +28,7 @@ Explore our sections below or jump straight to your favorite category using our 
    * [10. Refreshing Beverages](#10-refreshing-beverages)
    * [11. Special Value Combos](#11-special-value-combos)
 4. [🌟 Why Choose Chatore Sathi?](#-why-choose-chatore-sathi)
-5. [🕒 Operational Timings](#-operational-timings)
+5. [🕒 Operational Timings](#-our-operational-timings)
 
 ---
 
